@@ -13,7 +13,7 @@ var config = {
 	},
 	output: {
 		path: __dirname + '/dist/',
-		publicPath: '/dist/',
+		publicPath: 'dev' === WEBPACK_ENV ? '/dist/' : '//leyou319.github.io/multipage_webpack/dist/',
 		filename: 'js/[name].js'
 	},
 	module: {
