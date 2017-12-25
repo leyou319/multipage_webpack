@@ -1,1 +1,1 @@
-webpackJsonp([0],{5:function(n,c,o){o(6);o(0)},6:function(n,c){}},[5]);
+webpackJsonp([0],{5:function(n,i,t){t(6);var c=t(0);({init:function(){this.bindEvent()},bindEvent:function(){$(document).on("click","input",function(){c.showTip("点我干嘛")})}}).init()},6:function(n,i){}},[5]);
