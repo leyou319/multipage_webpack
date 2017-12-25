@@ -1,0 +1,1 @@
+webpackJsonp([2],{7:function(n,i,t){t(8);var c=t(0);({init:function(){this.bindEvent()},bindEvent:function(){$(document).on("click","input",function(){c.showTip("点我干嘛")})}}).init()},8:function(n,i){}},[7]);
