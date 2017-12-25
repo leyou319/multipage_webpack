@@ -46,23 +46,23 @@ npm run build
 ### 项目目录
 ```
 |--src
-|  |--images
-|  |--sass
-|     |-- reset.scss
+|  |--images             图片
+|  |--sass               样式
+|     |-- reset.scss
 |     |-- index.scss
 |     |-- list.scss
-|  |--includes
-|     |-- head.pug
+|  |--includes           html公共模板
+|     |-- head.pug
 |     |-- foot.pug
-|  |--js
-|     |--util
-|        |-- common.js 
+|  |--js                 js逻辑相关
+|     |--util            js工具函数
+|        |-- common.js 
 |     |-- index.js 
 |     |-- list.js
 |  |--index.pug  
 |  |--list.pug  
-|-- webpack.config.js  
-|-- package.json  
-|-- README.md  
-|-- .gitignore  
+|-- webpack.config.js    webpack打包配置
+|-- package.json         项目依赖信息
+|-- README.md            项目说明
+|-- .gitignore           git忽略配置
 ```
