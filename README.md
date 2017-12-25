@@ -43,7 +43,7 @@ npm run dev
 npm run build
 ```
 
-### 项目相关
+### 项目目录
 ```
 |--src
 |  |--images             图片
@@ -65,7 +65,7 @@ npm run build
 |-- package.json         项目依赖信息
 |-- README.md            项目说明
 |-- .gitignore           git忽略配置
-
-本地预览项目
-http://localhost:8080/dist/
 ```
+### 项目预览
+![开发预览](http://localhost:8080/dist/)
+![线上预览](https://leyou319.github.io/multipage_webpack/dist/)
