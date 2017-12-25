@@ -34,3 +34,11 @@ module.exports = {
   ]
 }
 ```
+### 命令行相关
+```
+1. 开发环境
+npm run dev
+
+2. 生产打包
+npm run build
+```
