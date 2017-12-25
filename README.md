@@ -42,3 +42,27 @@ npm run dev
 2. 生产打包
 npm run build
 ```
+
+### 项目目录
+```
+|--src
+|  |--images
+|  |--sass
+|     |-- reset.scss
+|     |-- index.scss
+|     |-- list.scss
+|  |--includes
+|     |-- head.pug
+|     |-- foot.pug
+|  |--js
+|     |--util
+|        |-- common.js 
+|     |-- index.js 
+|     |-- list.js
+|  |--index.pug  
+|  |--list.pug  
+|-- webpack.config.js  
+|-- package.json  
+|-- README.md  
+|-- .gitignore  
+```
