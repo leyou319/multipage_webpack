@@ -67,5 +67,5 @@ npm run build
 |-- .gitignore           git忽略配置
 ```
 ### 项目预览
-![开发预览](http://localhost:8080/dist/)
-![线上预览](https://leyou319.github.io/multipage_webpack/dist/)
+[开发预览](http://localhost:8080/dist/)
+[线上预览](https://leyou319.github.io/multipage_webpack/dist/)
